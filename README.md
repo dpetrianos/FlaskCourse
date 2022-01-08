@@ -1,1 +1,1 @@
-#FlaskCource project
+#FlaskCourse project
