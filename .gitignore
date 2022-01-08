@@ -1,1 +1,8 @@
+# Byte-compiled / optimized / DLL files
 *.pyc
+
+
+#Environments
+flaskvenv/
+version/
+
