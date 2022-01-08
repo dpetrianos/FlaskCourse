@@ -5,4 +5,8 @@
 #Environments
 flaskvenv/
 version/
-
+env/
+venv/
+ENV/
+.env
+.venv
